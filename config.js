@@ -46,46 +46,46 @@ const readMore = more.repeat(4001)
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sgh = 'https://github.com/xynabotz' // github
-global.sgc = 'https://chat.whatsapp.com/Iwngx7s2deGAVQUeoGctux' // group whatsapp
-global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/@xynabotzreal' // my youtube channel
+global.sgh = '-' // github
+global.sgc = '-' // group whatsapp
+global.sdc = '-'//discord
+global.snh = '-' // my youtube channel
 global.sfb = '-' // facebook
-global.syt = 'https://www.youtube.com/@xynabotzreal'
+global.syt = 'https://www.youtube.com/@btr56'
 global.tik = '-' // tiktok
-global.tautanwa = 'https://wa.me/6287847070396'
-global.wame = 'https://wa.me/6287847070396' // kalau gk punya bisa ganti pake gini wa.me/6285718828566
+global.tautanwa = 'https://wa.me/62895412691100'
+global.wame = 'https://wa.me/62895412691100' // kalau gk punya bisa ganti pake gini wa.me/6285718828566
 
 /*============== PAYMENT ==============*/
-global.pdana = '085718828566' //dana
-global.povo = '085718828566' //ovo
-global.pgopay = '085718828566' //gopay
+global.pdana = '087732200388' //dana
+global.povo = '087732200388' //ovo
+global.pgopay = '087732200388' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '085718828566' //telkomsel
-global.ppulsa2 = '087847070396' // kalau ada kartu lain isi aja
+global.ppulsa = '087732200388' //telkomsel
+global.ppulsa2 = '087732200388' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.co/AraBotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281357435388'
-global.nomorown = '6285718828566'
-global.nomorown1 = '6287847070396' //pake No Pacar lo Juga Boleh
-global.namebot = 'XynaBotz'
-global.nameown = 'Xyna Botz'
-global.nameown1 = 'imau nagita' //Pake Nama Pacar Lo Juga Boleh
+global.nomorbot = '087732200388'
+global.nomorown = '62895412691100'
+global.nomorown1 = '-' //pake No Pacar lo Juga Boleh
+global.namebot = 'BTR X-BOT OFFICIAL'
+global.nameown = 'Calon Mu'
+global.nameown1 = 'Ga ada Cewe' //Pake Nama Pacar Lo Juga Boleh
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INFO BIO DATA OWN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/faelfilaa' // ig lo
-global.sigpcr = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/ranggaboy' // ig cewek lo
+global.sig = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/sadboy.edtz' // ig lo
+global.sigpcr = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/btr_three' // ig cewek lo
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Nama Github Belum Diisi' // nama github lu
-global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
+global.namagithub = 'B4MBANG-94NT3NG' // nama github lu
+global.linkgithub = 'https://github.com/B4MBANG-94NT3NG' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287847070396', 'imau nagita', true],
-  ['6285718828566', 'Xyna botz', true],
+  ['6287732200388', 'imau nagita', true],
+  ['62895412691100', 'Xyna botz', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -95,23 +95,23 @@ global.mods = []
 global.prems = [] 
 
 /*============== WATERMARK ==============*/
-global.gcname = 'Yt XynaBotz'//nama group kalian
+global.gcname = 'TEST BOT'//nama group kalian
 global.readMore = readMore
-global.wm = '                「 XynaBotz 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Mwxxy MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ XynaBotz '
+global.wm = '                「 BTR X-BOT OFFICIAL 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘BTR X-BOT OFFICIAL ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ BTR X-BOT OFFICIAL '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By XynaBotz`
+global.titlebot = `⫹⫺ WhatsApp Bot | By BTR X-BOT OFFICIAL`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '              「 XynaBotz  あ」'
+global.author = '              「 BTR X-BOT OFFICIAL  あ」'
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 global.danied = pickRandom(["✘ 𝗘𝗿𝗼𝗿 𝟰𝟬𝟰","𝘼𝙠𝙨𝙚𝙨 𝘿𝙞𝙩𝙤𝙡𝙖𝙠","⚠️ 𝘼𝙘𝙘𝙨𝙚𝙨 𝘿𝙖𝙣𝙞𝙚𝙙 ⚠️"])
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'XynaBotz'
-global.stickauth = `By ©FaelFilaa`
+global.stickpack = 'BTR X-BOT OFFICIAL'
+global.stickauth = `By © Mr. Three4One`
  
 /*============== LOGO ==============*/
 global.fotonya1 = 'https://telegra.ph/file/2b16380197a08333517ba.jpg' 
@@ -851,7 +851,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 global.flaaa = fla
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://instagram.com/faelfilaa"
+global.urlnya = "https://instagram.com/Mr. Three4One"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '0857-1882-8566'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
